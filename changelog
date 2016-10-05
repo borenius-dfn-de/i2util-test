@@ -1,0 +1,21 @@
+i2util (1.6-1) unstable; urgency=medium
+
+  * New upstream version
+  * enabled compiler flags for hardening
+  * enabled PIC compiler flag (Closes: #837400)
+  * bumped Standards-Version to 3.9.8
+
+ -- Raoul Gunnar Borenius <borenius@dfn.de>  Mon, 19 Sep 2016 14:42:33 +0200
+
+i2util (1.2-2) unstable; urgency=medium
+
+  * added multiarch support
+  * include pfstore (Closes: #774286) 
+
+ -- Raoul Gunnar Borenius <borenius@dfn.de>  Wed, 29 Jul 2015 11:03:23 +0200
+
+i2util (1.2-1) unstable; urgency=low
+
+  * Initial release (Closes: #753894)
+
+ -- Raoul Gunnar Borenius <borenius@dfn.de>  Mon, 06 Oct 2014 08:24:01 +0200
